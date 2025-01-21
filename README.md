@@ -1,8 +1,18 @@
-# React + Vite
+# Todo List - React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de Todo List desenvolvido utilizando **React.js**, como parte do Summer Academy um curso de férias de desenvolvimento front-end, fornecido pela Uninassau em parceria com a Accenture. O objetivo foi praticar os conceitos fundamentais de React, como componentes, estado e eventos, além de criar uma aplicação funcional e visualmente agradável.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Adicionar tarefas à lista.
+- Remover tarefas da lista.
+- Interface amigável e responsiva.
+
+## Tecnologias Utilizadas
+
+- **React.js**: Biblioteca principal para construção da interface.
+- **CSS**: Estilização da aplicação.
+- **JavaScript (ES6+)**: Lógica e interatividade da aplicação.
+
+
+
