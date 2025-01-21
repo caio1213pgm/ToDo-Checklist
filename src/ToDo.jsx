@@ -1,6 +1,6 @@
 import { useState } from "react";
-import AddTarefas from "./AddTarefas";
-import Tarefas from "./Tarefas";
+import AddTarefas from "./Components/AddTarefas";
+import Tarefas from "./Components/Tarefas";
 
 function Todo() {
     const [tarefas, setTarefas] = useState([
